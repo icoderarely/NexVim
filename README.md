@@ -3,6 +3,7 @@
 NexVim is a beginner-friendly Neovim configuration inspired by popular configuration [Kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) and a popular distro [LazyVim](https://github.com/LazyVim/LazyVim). It provides an organized, modern setup that’s easy to use and customize, helping new users get started with Neovim without the hassle of complex configuration. Perfect for those who want a smooth and efficient Neovim experience out of the box.
 
 ![NexVim Screenshot](assets/nexvim-screenshot.png)
+![NexVim Screenshot](assets/nexvim-project-screenshot.png)
 *Example of the NexVim interface*
 
 ## 📦 Requirements
