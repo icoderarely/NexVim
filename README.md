@@ -52,7 +52,7 @@ Contributions are welcome! If you'd like to improve NexVim or suggest new featur
 1. **Fork the repository** on GitHub.
 2. **Clone your fork** to your local machine.
    ```bash
-   git clone https://github.com/yourusername/NexVim.git
+   git clone https://github.com/icoderarely/NexVim.git
    ```
 3. **Create a new branch** for your feature or bugfix.
    ```bash
