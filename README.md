@@ -1,13 +1,19 @@
 # NexVim
 
-NexVim is a beginner-friendly Neovim configuration inspired by popular distributions like Kickstart.nvim and LazyVim. It provides an organized, modern setup that’s easy to use and customize, helping new users get started with Neovim without the hassle of complex configuration. Perfect for those who want a smooth and efficient Neovim experience out of the box.
-
-## Screenshots
+NexVim is a beginner-friendly Neovim configuration inspired by popular configuration Kickstart.nvim and a popular distro LazyVim. It provides an organized, modern setup that’s easy to use and customize, helping new users get started with Neovim without the hassle of complex configuration. Perfect for those who want a smooth and efficient Neovim experience out of the box.
 
 ![NexVim Screenshot](assets/nexvim-screenshot.png)
 *Example of the NexVim interface*
 
-## Installation
+## 📦 Requirements
+
+To use NexVim, make sure your system meets the following requirements:
+
+- **Neovim >= 0.9.0**
+- **Git >= 2.19.0**
+- **A [Nerd Font](https://www.nerdfonts.com/)** _(optional)_
+
+## 🛠️ Installation
 
 Clone this repository to your `~/.config/nvim/` directory:
 
@@ -15,7 +21,30 @@ Clone this repository to your `~/.config/nvim/` directory:
 git clone https://github.com/username/NexVim.git ~/.config/nvim
 ```
 
-## Contributing
+Once you’ve cloned the repository and installed any necessary dependencies, open Neovim:
+```bash
+nvim
+```
+
+## 📂 File Structure
+
+<pre>
+~/.config/nvim
+├── lua
+│   ├── core
+│   │   ├── keymaps.lua
+│   │   └── options.lua
+│   │── plugins
+│   │   ├── plugin1.lua
+│   │   ├── **
+│   │   └── plugin2.lua
+│   └── snippets
+│       ├── language.lua
+│       └── package.json
+└── init.lua
+</pre>
+
+## 🌱 Contributing
 
 Contributions are welcome! If you'd like to improve NexVim or suggest new features, please follow these steps:
 
