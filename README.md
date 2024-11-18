@@ -65,3 +65,7 @@ Contributions are welcome! If you'd like to improve NexVim or suggest new featur
 6. **Open a pull request** on GitHub. Be sure to explain your changes clearly.
 
 We follow the [Contributor Covenant Code of Conduct](https://www.contributor-covenant.org/) and encourage all participants to be respectful and inclusive.
+
+## 🚧 Work in Progress
+
+- [ ] Add documents explaining which plugins are used and what do they do.
