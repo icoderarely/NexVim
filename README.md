@@ -2,6 +2,11 @@
 
 NexVim is a beginner-friendly Neovim configuration inspired by popular distributions like Kickstart.nvim and LazyVim. It provides an organized, modern setup that’s easy to use and customize, helping new users get started with Neovim without the hassle of complex configuration. Perfect for those who want a smooth and efficient Neovim experience out of the box.
 
+## Screenshots
+
+![NexVim Screenshot](assets/nexvim-screenshot.png)
+*Example of the NexVim interface*
+
 ## Installation
 
 Clone this repository to your `~/.config/nvim/` directory:
@@ -9,11 +14,6 @@ Clone this repository to your `~/.config/nvim/` directory:
 ```bash
 git clone https://github.com/username/NexVim.git ~/.config/nvim
 ```
-
-## Screenshots
-
-![NexVim Screenshot](assets/nexvim-screenshot.png)
-*Example of the NexVim interface*
 
 ## Contributing
 
@@ -33,6 +33,6 @@ Contributions are welcome! If you'd like to improve NexVim or suggest new featur
    ```bash
    git push origin feature-name
    ```
-6. **Open a pull request* on GitHub. Be sure to explain your changes clearly.
+6. **Open a pull request** on GitHub. Be sure to explain your changes clearly.
 
 We follow the [Contributor Covenant Code of Conduct](https://www.contributor-covenant.org/) and encourage all participants to be respectful and inclusive.
