@@ -1,0 +1,15 @@
+{
+    "Async Function with Try-Catch": {
+        "prefix": "asyncfn",
+        "body": [
+            "const ${1:functionName} = async (${2:args}) => {",
+            "  try {",
+            "    ${3:// your code here}",
+            "  } catch (error) {",
+            "    console.error('Error in ${1:functionName}:', error);",
+            "  }",
+            "};"
+        ],
+        "description": "Creates an async function with a try-catch block"
+    }
+}
