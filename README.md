@@ -19,7 +19,7 @@ To use NexVim, make sure your system meets the following requirements:
 Clone this repository to your `~/.config/nvim/` directory:
 
 ```bash
-git clone https://github.com/username/NexVim.git ~/.config/nvim
+git clone https://github.com/icoderarely/NexVim.git ~/.config/nvim
 ```
 
 Once you’ve cloned the repository and installed any necessary dependencies, open Neovim:
