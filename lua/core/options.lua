@@ -11,7 +11,7 @@ opt.pumheight = 5
 -- opt.undodir = '~/.somewhere'
 -- prompt before saving files
 opt.confirm = true
--- disable mouse
+-- enable mouse in all modes
 opt.mouse = "a"
 -- system clipboard
 opt.clipboard = "unnamedplus"
