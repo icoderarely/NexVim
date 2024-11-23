@@ -1,3 +1,7 @@
+<link rel="stylesheet" href="styles.css">
+<script src="theme.js" defer></script>
+<button onclick="toggleTheme()">Toggle Theme</button>
+
 # Welcome to NexVim
 
 NexVim is a modern Neovim distribution designed to be beginner-friendly, customizable, and efficient.
